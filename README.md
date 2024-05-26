@@ -9,6 +9,11 @@ Features
     Game Counter: Keeps track of how many times the game has been played.
     Digit Extraction: Displays the digits of the app's random number as images.
 
+ ## Built With
+
+ [![Swift 5.0](https://img.shields.io/badge/swift-5.0-orange.svg?style=flat)](#)
+
+
 ## UI Components
 Ladybug and Ant View
 
